@@ -7,6 +7,7 @@ This repository contains a web-based application for classifying dry fish images
 
 ## Features
 - **Dry Fish Classification**: Uses a MobileNetV2 model trained on 11 different dry fish categories.
+- **Dry Fish Detection**: Uses Yolov model trained on 11 different dry fish categories.
 - **Explainable AI (XAI)**: Provides Grad-CAM, Grad-CAM++, and Eigen-CAM visualizations for model interpretability.
 - **User-Friendly UI**: Built with Streamlit for easy image upload and analysis.
 - **Custom Styling**: Right-side background is light gray with black text for better readability.
